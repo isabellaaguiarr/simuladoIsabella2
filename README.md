@@ -14,5 +14,5 @@ linkedin: https://www.linkedin.com/in/laertejt/ \
 site: https://laboratoriodefinancas.com 
 
 ## Aluno
-Isabella Aguiar
+Isabella Aguiar \
 Ciencia de dados 
